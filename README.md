@@ -1,4 +1,2 @@
 # Genetic-Algorithms
-In this folders there are a few home made genetic algorithms:
-1- Password craking
-2- Nqueens
+In this folders there are a few home made genetic algorithms:Password craking, Nqueens
